@@ -14,9 +14,14 @@
 
 ---
 
-## 주제 선정 배경  
+## 주제 선정 배경
 - 로봇 산업은 4차 산업혁명의 중심에 위치하며, 자동화, 인공지능, 로보틱스 기술의 발전으로 인한 빠른 성장.
-- 기존 채용 사이트와 정보 플랫폼 내 로봇 산업에 특화된 채용 정보나 요구 기술 분석의 어려움
+![image](https://github.com/user-attachments/assets/1aed04c5-3016-41ec-bdfd-758c01e8216d)
+  - 출처 : 글로벌 로봇산업 추이 전망/제공=KIAT(2023) 전기신문(https://www.electimes.com)
+- 기존 채용 사이트와 정보 플랫폼 내 로봇 산업에 특화된 채용 정보나 요구 기술 분석의 어려움<br/>
+![Screenshot from 2024-12-31 13-39-31](https://github.com/user-attachments/assets/6997e06f-1790-4811-a7b5-9b46a79e6695)
+![line](https://github.com/user-attachments/assets/9e53e135-aee1-4376-99ac-aca4bf49e287)
+  - 출처 : 사람인 메인화면(https://www.jobkorea.co.kr/recruit/joblist?menucode=local&localorder=1)
 
 ---
 
