@@ -46,7 +46,7 @@
 ## DB
 
 ### ERD
-
+![6조 ERD](https://github.com/user-attachments/assets/ce0087b5-c26d-4916-84d4-5d18fc931b41)
 ---
 
 ## Data 분석 및 시각화
