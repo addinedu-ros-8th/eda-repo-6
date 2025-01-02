@@ -1,5 +1,5 @@
 # 채용 전쟁: 로봇 회사가 찾는 인재는? 
-
+![Roschool](https://github.com/user-attachments/assets/fcda667d-c755-4b03-a3ae-0891467e41fc)
 
 ## 프로젝트 소개
 - **목차**
