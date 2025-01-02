@@ -1,4 +1,5 @@
-# 채용 전쟁: 로봇 회사가 찾는 인재는?
+# 채용 전쟁: 로봇 회사가 찾는 인재는? 
+
 
 ## 프로젝트 소개
 - **목차**
@@ -10,13 +11,11 @@
   - [Data 분석 및 시각화](#data-분석-및-시각화)
   - [결론](#결론)
  
----
 
 ## 프로젝트 목표  
 - 로봇 SW 개발 직군의 채용 시장 동향을 파악하고, 데이터 기반의 인사이트를 제공하기 위해 사전 조사를 진행.
 - 주요 채용 플랫폼(사람인, 잡코리아, 인크루트)을 통해 데이터 수집 가능성을 확인하고, 조사 범위 및 키워드를 선정.
 
----
 
 ## 주제 선정 배경
 - **미래 산업의 핵심 분야로서의 성장성**
@@ -35,11 +34,10 @@
 ![line](https://github.com/user-attachments/assets/9e53e135-aee1-4376-99ac-aca4bf49e287)
   - 출처 : 사람인 메인화면(https://www.jobkorea.co.kr/recruit/joblist?menucode=local&localorder=1)
 
----
 
 ## 구성원 및 역할
 
-:battery:**ROSchool**
+🏫**ROSchool**🏫
 | 이름       | 업무                                                         |
 |------------|--------------------------------------------------------------|
 | **심채훈** (팀장) | 프로젝트 총괄, 데이터 수집(사람인), 데이터 정제 및 분류      |
@@ -48,7 +46,15 @@
 | **박정배**  | 데이터 정제 및 분류, 데이터 분석 및 시각화, DB 관리, 발표 |
 | **공통**  | 데이터 처리 기준 논의, 발표자료 준비, Confluence, Jira |
 
----
+## 프로젝트 기간
+***2024.12.27. ~ 2025.01.03. (1주)***
+
+## 수집 데이터
+| 사이트 | 데이터 | 기준 |
+| --- | --- | --- |
+| [사람인](https://www.saramin.co.kr/zf_user/) | 채용정보, 기업정보 | 2024.12.27. |
+| [잡코리아](https://www.jobkorea.co.kr/) | 채용정보 | 2024.12.27. |
+| [인크루트](https://www.incruit.com/) | 채용정보 | 2024.12.26. |
 
 ## 기술스택
 
@@ -60,14 +66,12 @@
 | **DB** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"> |
 | **협업툴** | <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"> |
 
----
 
 ## DB
 
 ### ERD
-![ERD](https://github.com/user-attachments/assets/48a779e7-5faf-402d-ad62-faef8bf0b0a4)
+![ERD](https://github.com/user-attachments/assets/6bf182a4-5461-4098-bc31-8f3615c441ff)
 
----
 
 ## Data 분석 및 시각화
 
@@ -79,7 +83,6 @@
 
 ### 기업 규모 및 설립 연도별 비교
 
----
 
 ## 결론
 
