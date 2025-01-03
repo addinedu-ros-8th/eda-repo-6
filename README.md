@@ -73,7 +73,7 @@
 ## DB
 
 ### ERD
-![ERD](https://github.com/user-attachments/assets/6bf182a4-5461-4098-bc31-8f3615c441ff)
+![ERD ](https://github.com/user-attachments/assets/081fd2dd-5253-4853-bfed-404c63808588)
 
 
 ## Data 분석 및 시각화
