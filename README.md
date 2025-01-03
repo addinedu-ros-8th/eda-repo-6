@@ -49,6 +49,9 @@
 ## 프로젝트 기간
 ***2024.12.27. ~ 2025.01.03. (1주)***
 
+## Workflow
+![ROSchool_jira](https://github.com/user-attachments/assets/e63385a8-6704-45f6-ae22-4624786680b4)
+
 ## 수집 데이터
 | 사이트 | 데이터 | 기준 |
 | --- | --- | --- |
@@ -75,14 +78,85 @@
 
 ## Data 분석 및 시각화
 
-### 기술스택 빈도
+### 로봇 기업 분석
 
-### 경력/학력 분포
+- 지역별 기업 분포
 
-### 지역별 분석
+  ![로봇 기업 지역분포](https://github.com/user-attachments/assets/ef73b88f-de4c-4418-b886-012c89016bf9)
+  - 주로 수도권에 분포되어 있으며, 충청도 및 경남 지역 소수 위치
 
-### 기업 규모 및 설립 연도별 비교
+- 기업 규모 비율
 
+  ![기업분류별 분포](https://github.com/user-attachments/assets/15c026d8-d679-4591-94ee-a66e540d5953)
+  - 중소기업의 비율이 2/3 이상 차지하며 그 뒤로 스타트업, 강소기업의 비율이 높음
+ 
+- 기업 규모별 사원수
+
+  ![규모별 사원수](https://github.com/user-attachments/assets/89092d22-6a12-428c-9855-1d1f2a877abc)
+  
+- 업력별 매출액
+  
+  ![업력별 매출 히트맵(경신 X)](https://github.com/user-attachments/assets/6c71502a-6447-4eb8-9eac-63ba2d40697e)
+  ![설립일별 평균매출 회귀선 스케터](https://github.com/user-attachments/assets/dd8bd56c-40a1-4dc2-b575-04decf52d0bd)
+  - 20~30년 업력을 가진 기업의 매출액이 높게 형성 (단위: 억)
+
+- 기업 규모별 연봉
+
+  ![규모별 평균연봉 박스플롯](https://github.com/user-attachments/assets/fa6fb7a6-6047-4776-ad5d-fe963172ac03)
+  - 스타트업, 중소기업, 중견기업은 5000-6000만, 대기업은 7000-8000만으로 형성
+
+- 지역별 연봉
+
+  ![지역별 연봉 수평플롯](https://github.com/user-attachments/assets/bcc39db1-1f5f-4d85-b481-0eb326a46d0b)
+  - 4000-6000만이 주를 이르며 경기, 서울의 연봉이 높게 형성
+
+### 채용 정보 분석
+
+- 경력별 연봉
+
+  ![경력별 평균연봉 박스플롯](https://github.com/user-attachments/assets/fee99190-6016-4fd6-954a-3573ab404c91)
+  - 대체로 5000-7000만으로 형성되며, 최소 3000-4000만 연봉을 지급
+
+- 기술스택 선호도(공통)
+
+  ![기술 스택 막대그래프](https://github.com/user-attachments/assets/911c3e9b-6e72-4e39-95dd-3423d5797923)
+  - C++, ROS, Python, C, Linux 순으로 선호
+
+- 기술스택 선호도(자격요건)
+
+  ![기술 필수사항 막대그래프](https://github.com/user-attachments/assets/fefa6155-a5ab-4921-bf10-4306461e27a5)
+  - 자격 요건으로 C++, C, Python, C#, Linux를 선호
+
+- 기술스택 선호도(우대사항)
+
+  ![기술 우대사항 막대그래프](https://github.com/user-attachments/assets/40cb9fab-183d-4f6b-8169-ac230a4f5af6)
+  - 우대사항으론 ROS, Linux, C++, Git, Embedded를 선호
+
+- 업력별 기술스택 선호도 (자격요건)
+
+  ![Screenshot from 2025-01-03 10-17-04](https://github.com/user-attachments/assets/938a2cd2-6ddb-4fcc-835f-70ffb2fb4add)
+  ![Screenshot from 2025-01-03 10-17-18](https://github.com/user-attachments/assets/3c8e8e18-d3ee-42e2-8806-46b8ea743b6b)
+  - 공통적으로 C 계열의 언어를 많이 요구
+
+- 규모별 기술스택 선호도 (자격요건)
+
+  ![Screenshot from 2025-01-03 10-17-04](https://github.com/user-attachments/assets/682f7cd2-922b-4bdc-a7ee-f08357179d3e)
+  ![Screenshot from 2025-01-03 10-17-18](https://github.com/user-attachments/assets/1e1bd59b-6ab3-4379-9aa6-d4cac6c038c8)
+  - 규모별 기술스택도 C 계열의 언어를 많이 요구
+ 
+- 경력 선호도
+
+  ![경력별 선호도 막대그래프](https://github.com/user-attachments/assets/daceca89-d09c-4ff4-b25c-a5a048970077)
+  ![규모별 경력 선호도 파이차트-1](https://github.com/user-attachments/assets/310d2de2-959b-4bbb-8902-1a949e9ba62e)
+  ![Screenshot from 2025-01-03 10-12-06-20250103-011206](https://github.com/user-attachments/assets/836b2a80-9fb0-47b3-9456-0feeaa7ffab6)
+  - 경력 1-3년, 신입을 가장 선호
+ 
+- 학력 선호도
+
+  ![학력별 선호도 막대그래프](https://github.com/user-attachments/assets/c1359c92-5d91-48fa-bbb3-4f41b3cdd7c8)
+  ![규모별 학력 선호도 파이차트-1](https://github.com/user-attachments/assets/93705df8-7ceb-4794-9ffb-1e7fda26c42a)
+  ![규모별 학력 선호도 파이차트-2](https://github.com/user-attachments/assets/1775a1f3-805c-4343-96e9-316cf8e56a2c)
+  - 스타트업은 초대졸이상의 비율이 높고, 대체로 대졸이상을 선호
 
 ## 결론
 
